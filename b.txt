@@ -1,3 +1,4 @@
 代码提交
 git log --oneline  
-$ git tag -a v0.1.0 -m '添加一个标签'
+$ git tag -a v0.1.0 -m '添加一个标签'  
+$ git push origin v0.1.0
