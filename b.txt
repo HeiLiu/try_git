@@ -2,3 +2,9 @@
 git log --oneline  
 $ git tag -a v0.1.0 -m '添加一个标签'  
 $ git push origin v0.1.0
+$ git rebase -i hash 提交历史美化命令
+$ cat a.txt 查看文件
+dd :删除光标所在行
+yy :复制 当前行 p 粘贴 
+o : 开新一行
+O : 向上开一行 
